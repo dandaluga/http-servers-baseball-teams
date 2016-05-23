@@ -1,0 +1,257 @@
+{
+    "TeamId": "108",
+    "Code": "ana",
+    "FileCode": "ana",
+    "Abbreviation": "LAA",
+    "Name": "LA Angels",
+    "FullName": "Los Angeles Angels",
+    "BriefName": "Angels"
+}, {
+    "TeamId": "109",
+    "Code": "ari",
+    "FileCode": "ari",
+    "Abbreviation": "ARI",
+    "Name": "Arizona",
+    "FullName": "Arizona Diamondbacks",
+    "BriefName": "D-backs"
+}, {
+    "TeamId": "110",
+    "Code": "bal",
+    "FileCode": "bal",
+    "Abbreviation": "BAL",
+    "Name": "Baltimore",
+    "FullName": "Baltimore Orioles",
+    "BriefName": "Orioles"
+}, {
+    "TeamId": "111",
+    "Code": "bos",
+    "FileCode": "bos",
+    "Abbreviation": "BOS",
+    "Name": "Boston",
+    "FullName": "Boston Red Sox",
+    "BriefName": "Red Sox"
+}, {
+    "TeamId": "112",
+    "Code": "chn",
+    "FileCode": "chc",
+    "Abbreviation": "CHC",
+    "Name": "Chi Cubs",
+    "FullName": "Chicago Cubs",
+    "BriefName": "Cubs"
+}, {
+    "TeamId": "113",
+    "Code": "cin",
+    "FileCode": "cin",
+    "Abbreviation": "CIN",
+    "Name": "Cincinnati",
+    "FullName": "Cincinnati Reds",
+    "BriefName": "Reds"
+}, {
+    "TeamId": "114",
+    "Code": "cle",
+    "FileCode": "cle",
+    "Abbreviation": "CLE",
+    "Name": "Cleveland",
+    "FullName": "Cleveland Indians",
+    "BriefName": "Indians"
+}, {
+    "TeamId": "115",
+    "Code": "col",
+    "FileCode": "col",
+    "Abbreviation": "COL",
+    "Name": "Colorado",
+    "FullName": "Colorado Rockies",
+    "BriefName": "Rockies"
+}, {
+    "TeamId": "116",
+    "Code": "det",
+    "FileCode": "det",
+    "Abbreviation": "DET",
+    "Name": "Detroit",
+    "FullName": "Detroit Tigers",
+    "BriefName": "Tigers"
+}, {
+    "TeamId": "117",
+    "Code": "hou",
+    "FileCode": "hou",
+    "Abbreviation": "HOU",
+    "Name": "Houston",
+    "FullName": "Houston Astros",
+    "BriefName": "Astros"
+}, {
+    "TeamId": "118",
+    "Code": "kca",
+    "FileCode": "kc",
+    "Abbreviation": "KC",
+    "Name": "Kansas City",
+    "FullName": "Kansas City Royals",
+    "BriefName": "Royals"
+}, {
+    "TeamId": "119",
+    "Code": "lan",
+    "FileCode": "la",
+    "Abbreviation": "LAD",
+    "Name": "LA Dodgers",
+    "FullName": "Los Angeles Dodgers",
+    "BriefName": "Dodgers"
+}, {
+    "TeamId": "120",
+    "Code": "was",
+    "FileCode": "was",
+    "Abbreviation": "WSH",
+    "Name": "Washington",
+    "FullName": "Washington Nationals",
+    "BriefName": "Nationals"
+}, {
+    "TeamId": "121",
+    "Code": "nyn",
+    "FileCode": "nym",
+    "Abbreviation": "NYM",
+    "Name": "NY Mets",
+    "FullName": "New York Mets",
+    "BriefName": "Mets"
+}, {
+    "TeamId": "133",
+    "Code": "oak",
+    "FileCode": "oak",
+    "Abbreviation": "OAK",
+    "Name": "Oakland",
+    "FullName": "Oakland Athletics",
+    "BriefName": "Athletics"
+}, {
+    "TeamId": "134",
+    "Code": "pit",
+    "FileCode": "pit",
+    "Abbreviation": "PIT",
+    "Name": "Pittsburgh",
+    "FullName": "Pittsburgh Pirates",
+    "BriefName": "Pirates"
+}, {
+    "TeamId": "135",
+    "Code": "sdn",
+    "FileCode": "sd",
+    "Abbreviation": "SD",
+    "Name": "San Diego",
+    "FullName": "San Diego Padres",
+    "BriefName": "Padres"
+}, {
+    "TeamId": "136",
+    "Code": "sea",
+    "FileCode": "sea",
+    "Abbreviation": "SEA",
+    "Name": "Seattle",
+    "FullName": "Seattle Mariners",
+    "BriefName": "Mariners"
+}, {
+    "TeamId": "137",
+    "Code": "sfn",
+    "FileCode": "sf",
+    "Abbreviation": "SF",
+    "Name": "San Francisco",
+    "FullName": "San Francisco Giants",
+    "BriefName": "Giants"
+}, {
+    "TeamId": "138",
+    "Code": "sln",
+    "FileCode": "stl",
+    "Abbreviation": "STL",
+    "Name": "St. Louis",
+    "FullName": "St. Louis Cardinals",
+    "BriefName": "Cardinals"
+}, {
+    "TeamId": "139",
+    "Code": "tba",
+    "FileCode": "tb",
+    "Abbreviation": "TB",
+    "Name": "Tampa Bay",
+    "FullName": "Tampa Bay Rays",
+    "BriefName": "Rays"
+}, {
+    "TeamId": "140",
+    "Code": "tex",
+    "FileCode": "tex",
+    "Abbreviation": "TEX",
+    "Name": "Texas",
+    "FullName": "Texas Rangers",
+    "BriefName": "Rangers"
+}, {
+    "TeamId": "141",
+    "Code": "tor",
+    "FileCode": "tor",
+    "Abbreviation": "TOR",
+    "Name": "Toronto",
+    "FullName": "Toronto Blue Jays",
+    "BriefName": "Blue Jays"
+}, {
+    "TeamId": "142",
+    "Code": "min",
+    "FileCode": "min",
+    "Abbreviation": "MIN",
+    "Name": "Minnesota",
+    "FullName": "Minnesota Twins",
+    "BriefName": "Twins"
+}, {
+    "TeamId": "143",
+    "Code": "phi",
+    "FileCode": "phi",
+    "Abbreviation": "PHI",
+    "Name": "Philadelphia",
+    "FullName": "Philadelphia Phillies",
+    "BriefName": "Phillies"
+}, {
+    "TeamId": "144",
+    "Code": "atl",
+    "FileCode": "atl",
+    "Abbreviation": "ATL",
+    "Name": "Atlanta",
+    "FullName": "Atlanta Braves",
+    "BriefName": "Braves"
+}, {
+    "TeamId": "145",
+    "Code": "cha",
+    "FileCode": "cws",
+    "Abbreviation": "CWS",
+    "Name": "Chi White Sox",
+    "FullName": "Chicago White Sox",
+    "BriefName": "White Sox"
+}, {
+    "TeamId": "146",
+    "Code": "mia",
+    "FileCode": "mia",
+    "Abbreviation": "MIA",
+    "Name": "Miami",
+    "FullName": "Miami Marlins",
+    "BriefName": "Marlins"
+}, {
+    "TeamId": "147",
+    "Code": "nya",
+    "FileCode": "nyy",
+    "Abbreviation": "NYY",
+    "Name": "NY Yankees",
+    "FullName": "New York Yankees",
+    "BriefName": "Yankees"
+}, {
+    "TeamId": "158",
+    "Code": "mil",
+    "FileCode": "mil",
+    "Abbreviation": "MIL",
+    "Name": "Milwaukee",
+    "FullName": "Milwaukee Brewers",
+    "BriefName": "Brewers"
+}, {
+    "TeamId": "159",
+    "Code": "aas",
+    "FileCode": "al",
+    "Abbreviation": "AL",
+    "Name": "AL All-Stars",
+    "FullName": "American League All-Stars",
+    "BriefName": "AL All-Stars"
+}, {
+    "TeamId": "160",
+    "Code": "nas",
+    "FileCode": "nl",
+    "Abbreviation": "NL",
+    "Name": "NL All-Stars",
+    "FullName": "National League All-Stars",
+    "BriefName": "NL All-Stars"
+}
